@@ -1,8 +1,8 @@
 
 pipeline{
     tools{
-        jdk 'myjava'
-        maven 'mymaven'
+        jdk 'my java'
+        maven 'mymavenauto'
     }
     agent none
       stages{
